@@ -1,1 +1,5 @@
 /.vs/WebApiRetriever/v17
+/WebApiRetriever/bin
+/.vs/WebApiRetriever/v17
+/WebApiRetriever/bin/Debug
+WebApiRetriever/obj/project.nuget.cache
