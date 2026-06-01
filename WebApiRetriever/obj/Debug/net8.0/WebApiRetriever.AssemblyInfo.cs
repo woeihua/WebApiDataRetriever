@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiRetriever")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d40805649a5b9ef318b8ec24dd574c79833a3e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiRetriever")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiRetriever")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

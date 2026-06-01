@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\woeihua\\source\\repos\\WebApiRetriever\\WebApiRetriever\\WebApiRetriever.csproj": {}
+    "C:\\Users\\woeihua\\Documents\\GitHub\\WebApiDataRetriever\\WebApiRetriever\\WebApiRetriever.csproj": {}
   },
   "projects": {
-    "C:\\Users\\woeihua\\source\\repos\\WebApiRetriever\\WebApiRetriever\\WebApiRetriever.csproj": {
+    "C:\\Users\\woeihua\\Documents\\GitHub\\WebApiDataRetriever\\WebApiRetriever\\WebApiRetriever.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\woeihua\\source\\repos\\WebApiRetriever\\WebApiRetriever\\WebApiRetriever.csproj",
+        "projectUniqueName": "C:\\Users\\woeihua\\Documents\\GitHub\\WebApiDataRetriever\\WebApiRetriever\\WebApiRetriever.csproj",
         "projectName": "WebApiRetriever",
-        "projectPath": "C:\\Users\\woeihua\\source\\repos\\WebApiRetriever\\WebApiRetriever\\WebApiRetriever.csproj",
+        "projectPath": "C:\\Users\\woeihua\\Documents\\GitHub\\WebApiDataRetriever\\WebApiRetriever\\WebApiRetriever.csproj",
         "packagesPath": "C:\\Users\\woeihua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\woeihua\\source\\repos\\WebApiRetriever\\WebApiRetriever\\obj\\",
+        "outputPath": "C:\\Users\\woeihua\\Documents\\GitHub\\WebApiDataRetriever\\WebApiRetriever\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
