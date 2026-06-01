@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZuklSoQNsCD1JObSegy5lhf2fqBjq7UhWNqF1qCtwTY=",
+  "Source": "WebApiRetriever",
+  "BasePath": "_content/WebApiRetriever",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
